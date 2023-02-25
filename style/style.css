@@ -245,6 +245,7 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  z-index: 5;
 }
 
 .right {
@@ -383,7 +384,7 @@ ul {
 
 .footer__box {
   display: flex;
-  padding: 100px 90px;
+  padding: 100px 0;
   gap: 180px;
 }
 
